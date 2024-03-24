@@ -4,3 +4,5 @@ This project is a basic implementation of the Simon game, consisting of HTML, CS
 Special thanks to Dr. Angela Yu for source code and her invaluable guidance and expertise in providing this insightful lesson on how to implement this project, sourced from 'The Complete 2024 Web Development Bootcamp'. Thank you, Dr. Angela!"
 
 
+![image](https://github.com/Ittiwat812/SimonGame/assets/159146317/35d4bee3-b91a-4c59-84a1-e5e2513cc140)
+![image](https://github.com/Ittiwat812/SimonGame/assets/159146317/af1ed039-a0f9-4174-be22-30364c95a990)
