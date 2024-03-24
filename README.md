@@ -5,4 +5,4 @@ Special thanks to Dr. Angela Yu for source code and her invaluable guidance and 
 
 
 ![image](https://github.com/Ittiwat812/SimonGame/assets/159146317/35d4bee3-b91a-4c59-84a1-e5e2513cc140)
-![image](https://github.com/Ittiwat812/SimonGame/assets/159146317/af1ed039-a0f9-4174-be22-30364c95a990)
+
